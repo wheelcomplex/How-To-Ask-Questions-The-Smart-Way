@@ -2,6 +2,8 @@
 
 **How To Ask Questions The Smart Way**
 
+** [How to Answer Questions the Smart Way](https://github.com/wheelcomplex/How-To-Ask-Questions-The-Smart-Way/blob/master/How-To-Answer-Question-The-Smart-Way.md)**
+
 Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
 
 本指南英文版版權為 Eric S. Raymond, Rick Moen 所有。
